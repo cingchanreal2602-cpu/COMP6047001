@@ -4,5 +4,5 @@ int main ()
 {
   print ("CING CHAN\n");
   
-  return (0) :
+  return (0);
 }
